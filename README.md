@@ -1,7 +1,7 @@
 # Django-Roadmap
 
 Django Roadmap:
-Part 1 (Development Basics):
+
 Python virtual environment (pipenv, virtualenv, pyenv, poetry, uv (https://github.com/astral-sh/uv))
 
 Effective Python Book
@@ -15,12 +15,16 @@ Networks Basics: IPs, Ports, HTTP/HTTPS, FTP, Webservers, NATs, SSH, ...etc
 Linux
 
 Using The Terminal/CMD/PowerShell
-
+________________________________________________________________________________________________________________________________________________________________________________________________________
 Part 2 (Databases)
+
 RDB (PostgreSQL, MySQL/MariaDB, SQLite)
 NoSQL (MongoDB, Redis)
 ORM (Object-Relational Mapper)
+
+____________________________________________________________________________________________________________________________________________________________________________________________________________
 Part 3 (Software Engineering)
+
 Conventional Commits
 Trunk-based Development (https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development)
 Change Logs
@@ -39,6 +43,7 @@ Continues Integration (GitHub Actions, Jenkins, Travis-CI)
 pre-commit hooks (black, flake)
 .env files and environmental variables
 Logs, and Logging (For Example Sentry)
+________________________________________________________________________________________________________________________________________________________________________________________________________________
 Part 4 (Web)
 HTML, CSS, SASS, Javascript, Bootstrap and JQuery
 REST API
@@ -46,6 +51,7 @@ Swagger
 ngrok
 GraphQL
 Browser dev tools (elements tab, console, network tab, performance)
+____________________________________________________________________________________________________________________________________________________________________________________________________________
 Part 5 (Theory and Tools):
 Security (XSS, SQL Injection, CSRF, CORS, ...etc)
 Symmetric Encryption and Asymmetric Encryption
@@ -54,6 +60,7 @@ Authentication (session, basic, token and jwt token)
 Docker, docker-compose
 Postman
 Authentication vs Authorization
+__________________________________________________________________________________________________________________________________________________________________________________________________________
 Part 6 (Django)
 Good Resources:
 
@@ -101,19 +108,13 @@ django-debug-toolbar
 pytest-django
 pytest-cov
 custom management commands
-
 custom migrations
-
 permissions
-
 Django cookie-cutter
-
 Django Rest Framework
-
 Wagtail
-
 Django cms
-
+___________________________________________________________________________________________________________________________________________________________________________________________________________
 Part 7 (Advanced Concepts & Devops & Production):
 Elastic Stack
 Caching with redis
@@ -125,9 +126,12 @@ Nginx
 Microservices
 Hosting (PAAS, SAAS, IAAS)
 System Design (a good book is System Design Interview - An Insider's Guide)
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 Part 8 (Front-End Optional Miscellaneous)
 NPM
 Webpack
 SPA (Vue and Nuxt.js/React and Next.js/Angular)
 PWA
 TypeScript
+
+Mohamed Emad
